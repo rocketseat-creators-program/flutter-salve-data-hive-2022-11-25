@@ -2,8 +2,7 @@
 
 # Como salvar dados do usuário com Hive
 
-Neste projeto é apresentado como salvar dados do login do usuário usando o [Hive][3] no [Flutter][2], um banco de dados chave-valor 
-muito leve feito em Dart puro, sendo este muito leve e performático.
+Neste projeto é apresentado como salvar dados do login do usuário usando o [Hive][3] no [Flutter][2], um banco de dados chave-valor feito em Dart puro, sendo este muito leve e performático.
 
 Apresentado por [Alessandro Dutra de Andrade (Cachopaweb)][1].
 
